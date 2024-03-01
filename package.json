@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.10.2",
+    "datatables.net-autofill-bs5": "^2.5.1",
+    "datatables.net-bs5": "^1.13.1",
+    "datatables.net-buttons-bs5": "^2.3.3",
+    "jquery": "^3.6.1",
+    "jszip": "^3.10.1",
+    "pdfmake": "^0.2.6"
+  }
+}
